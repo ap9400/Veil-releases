@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Veil</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 11 Aug 2026 09:21:29 -0600</pubDate>
+            <link>https://github.com/ap9400/Veil-releases</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/ap9400/Veil-releases/releases/download/v0.1.0/Veil-0.1.0.dmg" length="2197116" type="application/octet-stream" sparkle:edSignature="lieIJ8ViRhhh0vJLrj/ZQ/Xjxoi01krOhn0G7HQjNl6oesMKJ/+FfeP9RwRbv7Kkr7pgnVLEgwlPMAl79xMGBw=="/>
+        </item>
+    </channel>
+</rss>
